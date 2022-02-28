@@ -1,0 +1,353 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tvrne over behold and wonder.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95367</idno>
+            <idno type="STC">Wing T3268</idno>
+            <idno type="STC">Thomason E480_5</idno>
+            <idno type="STC">ESTC R205316</idno>
+            <idno type="EEBO-CITATION">99864728</idno>
+            <idno type="PROQUEST">99864728</idno>
+            <idno type="VID">164000</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95367)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 164000)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 77:E480[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Tvrne over behold and wonder.</title>
+               </titleStmt>
+               <extent>15, [1] p., : ill. (woodcut)  </extent>
+               <publicationStmt>
+                  <publisher>Printed at Layghten Buzzard (Brother) within 10 miles of Dunce stable, by the Assignes of Tom Ladle, and are to be sold at the signe of the 7 Wise-men of Goatham,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1655]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>A satire, in verse.</note>
+                  <note>Annotation on Thomason copy: "March. 3. 1654".</note>
+                  <note>Reproduction of the original in the British Library..</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Satire, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:164000:1" rendition="simple:additions"/>
+            <p>TVRNE OVER BEHOLD And VVONDER.</p>
+            <figure>
+               <figDesc>blazon with spread eagle</figDesc>
+            </figure>
+            <p>Printed at Layghten <hi>Buzzard</hi> (Brother) within 10 miles of Dunce ſtable, by the Aſſignes of <hi>Tom Ladle,</hi> and are to be ſold at the ſigne of the 7 Wiſe<g ref="char:EOLhyphen"/>men of Goatham.</p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:164000:2"/>
+            <pb facs="tcp:164000:2"/>
+            <p>
+               <figure>
+                  <figDesc>a version of the "we be seven" motif: 3 men mounted on 3 asses</figDesc>
+                  <head>WEE BEE SEAVEN</head>
+               </figure>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:164000:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:164000:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:164000:4"/>
+            <pb facs="tcp:164000:4"/>
+            <head>TO THE MOST MIGHTY and Manifold Numberleſſe Multitude of Naturall and Artificiall Fooles and Aſſes.</head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">K</seg>Inde Fellowes, Brothers and Friends, (I dare not call you Gentlemen, though ſome of you were borne, and ſome eſteem'd or made ſo)</salute>
+            </opener>
+            <p>I have made bold to dedicate this Herculean la<g ref="char:EOLhyphen"/>bour to your Various Cenſures; entreating
+<pb facs="tcp:164000:5"/>
+everyone of you in particular to doe me the favour as to make the ſixe here depictured, to be in number ſeaven; If you bee free from all Aſperſions and Imputations which are Repeated of in the following Lines: then you are unfit for the Brother-hood; for all fooles are not ſo that weare Coxcombes, Pyde Coats and Bables, and there may bee a Golden Aſſe as well as a Gray one; <hi>Will Sommers</hi> was a Foole by Art, to King <hi>Henry</hi> the eight, and <hi>Patch</hi> was an Idiot to Cardinall <hi>VVolſey. Iohn Garret,</hi> was an indifferent Ieſter, (but all Ieſters, Ieerers, Flowters, Scoffers and Mockers are not to bee ſafely Ranked amongst the number of Fooles or Aſſes,) <hi>Tom Derry,</hi> was Harmeleſſe and Simple, and therein came neereſt to the nature and eſtimation of a ſilly Honeſt Foole: But all that is nothing to <hi>Ar<g ref="char:EOLhyphen"/>chye,</hi> for he is of a wiſe and more wary Garbe; hee knowes a piece of Biefe from an Iron Wedge, and a Velvet Purſe from a Sowes Eare. Hee is well knowne from others, and
+<pb facs="tcp:164000:5"/>
+may be truſted with untold Milſtones: the truth is, that he is much to be beloved for thoſe Good parts hee hath, and ſure there are many that did never receive harme by him, or do de<g ref="char:EOLhyphen"/>ſire it; And ſo my good Patrons I leave my Lines and Labours to you, and you to fortune and the world, whoſe favourites you are or may Be, as ſhe pleaſeth to be friend you.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:164000:6"/>
+            <pb facs="tcp:164000:6"/>
+            <head>Wee bee Seaven.</head>
+            <lg>
+               <l>TWo Brothers walking in a Starry Night,</l>
+               <l>And viewing well the Skies Illuſtrious light,</l>
+               <l>And how the ſpatious ſpangled firmament</l>
+               <l>Was wonderfull in compaſſe and extent,</l>
+               <l>They fell into a ſerious diſcourſe,</l>
+               <l>From Mad to Bad words, and from Bad to Worſe.</l>
+               <l>The one did wiſh he had a piece of Ground</l>
+               <l>As large or Ample as the Skies great Round,</l>
+               <l>The other wiſhd for Oxen, Buls and Kine</l>
+               <l>As many as the Starres, which then did ſhine:</l>
+               <l>The firſt ſaid, where ſhould all theſe Beaſts have Baite,</l>
+               <l>In your ground Sir, the ſecond Anſwered ſtraite.</l>
+               <l>With that the one began to ſtorme and ſweare</l>
+               <l>Without his leave they never ſhould feed there.</l>
+               <l>The other ſaid that in his teethes deſpight,</l>
+               <l>His cattell ſhould Graze there both day and night,</l>
+               <l>And that they in his Ground ſhould feed and fill,</l>
+               <l>Without his leave, or favour, or goodwill,</l>
+               <l>Thus were there angers Rais'd, both ſcorn'd to yeald,</l>
+               <l>And both each other dar'd into the feild.</l>
+               <l>The quarrell great the danger dreadfull was,</l>
+               <l>Each one well Mounted on his warlike Aſſe,</l>
+               <l>
+                  <pb facs="tcp:164000:7"/>
+In furious forme, and armed as you ſee</l>
+               <l>For bloudy Combate, both prepared be.</l>
+               <l>When loe! a third man hors'd as well as they,</l>
+               <l>Rode poaſting in, and thus tooke up the fray.</l>
+               <l>Brethren, quoth he, put up your murdring tooles,</l>
+               <l>Though we want wit, yet lets not play the fooles.</l>
+               <l>Our Beaſts and we are ſix, the number's even,</l>
+               <l>Except ſome looker on doe make up <hi>Seven.</hi>
+               </l>
+               <l>We are but halfe a dozen, but before</l>
+               <l>We can turne round, our number will be more.</l>
+               <l>Though ſome for beauty, wealth, deſcent, or place</l>
+               <l>Or rich attire, may hold us in diſgrace,</l>
+               <l>Let each one judge himſelfe, and I durſt lay</l>
+               <l>A wager, that we ſhall be ſeven ſtraightway.</l>
+               <l>He that hath paſt his word, or us'd his pen</l>
+               <l>In Bonds, and payd the debts of other men,</l>
+               <l>And lives in woe and want for doing thus,</l>
+               <l>Hath beene a kinde man, and is one of Vs.</l>
+               <l>He that hath Gam'd away a good eſtate,</l>
+               <l>And now doth want, doth cheat for cloathes and meat,</l>
+               <l>Or begge, or bravely ſteale, or poorely ſtarve,</l>
+               <l>To make our nnmber ſeven, doth well deſerve.</l>
+               <l>
+                  <hi>He</hi> that hath drab'd away his Time, his Wealth,</l>
+               <l>
+                  <hi>His</hi> Credit (if he had it) and his health,</l>
+               <l>Although he's poore, and his diſeaſes many,</l>
+               <l>
+                  <hi>Hee'le</hi> make our number ſeven as well as any.</l>
+               <l>
+                  <hi>He</hi> that is Jealous, and no cauſe can tell</l>
+               <l>Wherefore he is ſo, doth live halfe in hell,</l>
+               <l>And is a Cuckold onely in conceit,</l>
+               <l>We ſixe will make that man our brother ſtraight.</l>
+               <l>The Glutton whom nor Sea, nor Land, nor Skies</l>
+               <l>With Fiſhes, Beaſts, Fruits, Fowles cannot ſuffice,</l>
+               <l>Though he be neere ſo rich, I tell him thus,</l>
+               <l>
+                  <hi>Hees</hi> better fed than taught, and one of Vs.</l>
+               <l>
+                  <pb facs="tcp:164000:7"/>
+He that will let his wife live as ſhe liſt,</l>
+               <l>And pleaſe her, fearing both her tongue and fiſt:</l>
+               <l>And lets her goe, come, eate, weare what ſhe will,</l>
+               <l>He is our Brother, and ſhall be ſo ſtill.</l>
+               <l>He that oft drinks a friends, or Great mans health</l>
+               <l>And drinks his owne away, and waſtes his wealth,</l>
+               <l>Tis not his dropſie or his Giddy Braine</l>
+               <l>Shall make us his ſweet Brotherhood Refraine.</l>
+               <l>He that will for the wagging of a ſtraw</l>
+               <l>Or for each toye or triſle goe to law,</l>
+               <l>And loves contention better than his food,</l>
+               <l>He makes our number ſeaven tis underſtood.</l>
+               <l>He that delights in Brawles and quarrels picking,</l>
+               <l>In rough uncivill words, or dangerous ſtriking,</l>
+               <l>Though for acquaintance we do never crave him</l>
+               <l>Yet hees our Brother, till the hang man have him.</l>
+               <l>He that is toucheous, taſty, waſhpiſh, froward,</l>
+               <l>And fretfull, haſty, every way untoward:</l>
+               <l>I doe aſſure you ſuch a tempred man,</l>
+               <l>Shall make our number ſeaven, doe what he can.</l>
+               <l>He that our Churches government doth leere,</l>
+               <l>And hates our Reverend Ceremonies here,</l>
+               <l>Striving to mar whats well, whats Good to alter,</l>
+               <l>Hees one of Vs, untill he catch the halter.</l>
+               <l>All theſe, and many more our Brothers are</l>
+               <l>And each of us with him ſhall have a ſhare:</l>
+               <l>Ambition is a ſtumbling Rampant Aſſe:</l>
+               <l>An Alcumiſt may for our brother paſſe:</l>
+               <l>
+                  <hi>Empſon</hi> and <hi>Dudley,</hi> were proiectors twaine,</l>
+               <l>And both our Brothers, ſo are all their traine,</l>
+               <l>For whoſe ſake, Such proiectours that are bad,</l>
+               <l>Are wiſhd to have ſuch wages as they had.</l>
+               <l>Theſe that truſt Palmiſtry, or Augury,</l>
+               <l>Of fortune telling mad Aſs-trology,</l>
+               <l>
+                  <pb facs="tcp:164000:8"/>
+Or to be Great or Rich doth toyle and plod</l>
+               <l>And makes their belly or their Gold their God,</l>
+               <l>All fond Inamour<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es that are Mad</l>
+               <l>For Love (Sir Reverence) That cannot be had,</l>
+               <l>How ever ſuch, by wiſe men may be deem'd,</l>
+               <l>They ſhallbe of our brotherhood eſteem'd.</l>
+               <l>In Briefe the Worlds a Maſſe of Vanity,</l>
+               <l>A Gallemalfrey of mixt foolery.</l>
+               <l>And though men have not all one ſelfe condition</l>
+               <l>Yet every man's a foole or a Phyſition.</l>
+               <l>Fooles will be medling and what ere he be</l>
+               <l>That's angry at theſe lines, is one of wee:</l>
+               <l>And we do hope that wiſemen have ſuch powres</l>
+               <l>In Wiſdome, not to ſet their wit to ours.</l>
+               <l>And tis a Proverbe amongſt age and youth</l>
+               <l>That <hi>Fooles and Children</hi> ſtill <hi>will tell the truth:</hi>
+               </l>
+               <l>Beſides an old ſaid ſaw is not forgot</l>
+               <l>Which ſaies a fooles Bolt's ſoone or quickly ſhot.</l>
+               <l>We ſeaven are fooles, ſix of us are to ſell,</l>
+               <l>But if we all were Rich, we know Right well,</l>
+               <l>For love of us, our lands, our goods and gold,</l>
+               <l>We ſhould be beg'd for fooles, not Bought and ſold.</l>
+               <l>We were eſteem'd in learn'd <hi>Eraſmus</hi> dayes</l>
+               <l>Who wrore a worthy Booke in follies Praiſe,</l>
+               <l>And this much may be learn'd in Natures ſchoole</l>
+               <l>Tis better to be Borne than made a foole.</l>
+               <l>Thus every man that lives one way or other</l>
+               <l>Doth make our number ſeaven, and proves our Brother;</l>
+               <l>For Mighty States, and powerfull Potentates</l>
+               <l>That ſeeme to overſway and Rule the Fates</l>
+               <l>And with a Nayle through Fortunes wheele can drive it</l>
+               <l>And at that Poynt that Nayle can clench and rivet,</l>
+               <l>Where <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he cannot turne her wavering wheele</l>
+               <l>
+                  <pb facs="tcp:164000:8"/>
+They are Wiſemen indeed, (if ſuch there be)</l>
+               <l>And are no fellowes for ſuch fooles as wee.</l>
+               <l>But till ſuch time as we ſuch men can finde,</l>
+               <l>(As ſure they are excluded Humane kinde)</l>
+               <l>The Race of man to folly being ſubject,</l>
+               <l>And in one Poynt or other Fortunes abject.</l>
+               <l>For why if any men have Earthly Reſt,</l>
+               <l>Tis onely We that are Right fooles profeſt.</l>
+               <l>Thus welcome Brother whoſoere thou art</l>
+               <l>If thou will make us ſeaven, weele take thy part.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:164000:9"/>
+            <pb facs="tcp:164000:9"/>
+            <head>The Mad-Foole.</head>
+            <l>ALL common <hi>Drunkards, Swearers, Thieves</hi> and <hi>Roarers,</hi>
+            </l>
+            <l>
+               <hi>Decoyes, Sharkes, Cheaters, Runagates</hi> and <hi>Shiftes,</hi>
+            </l>
+            <l>All <hi>vagabonds, Nims, Prodigals</hi> and <hi>Whores,</hi>
+            </l>
+            <l>All <hi>Stales, Stands, Rogues,</hi> all <hi>Cutpurſſes,</hi> and <hi>Lifts,</hi>
+            </l>
+            <l>Theſe are the Mad fooles men, a wicked Crew,</l>
+            <l>Whom Heav'n Abhors, and Hell on Earth doth ſpew.</l>
+         </div>
+         <div type="poem">
+            <head>The Sad-Foole.</head>
+            <l>ALL Moody, Melancholy, Male-contents,</l>
+            <l>The Sonnes of Envy, Troublers of a State:</l>
+            <l>Projecting Hum'rous Politiques, whoſe events</l>
+            <l>Are Machivillian to beget debate.</l>
+            <l>Who laugh at Miſchiefe, Greive at all thats good</l>
+            <l>Theſe are the sad fooles Beſt Beloved Brood.</l>
+         </div>
+         <div type="poem">
+            <head>The Merry-Foole.</head>
+            <l>THoſe that can Iybe, and Ieere, Scoff, Mocke, or Ieſt,</l>
+            <l>Daunce, Fiddle, Iuggle, Tumble, play the Aſſe,</l>
+            <l>Rime Roguiſhly, prate non-ſence, ſmell a feaſt</l>
+            <l>And laugh at nothing All this Crew may paſſe,</l>
+            <l>For Troins true, mad Greekes, and drinke old ſherry,</l>
+            <l>Vnder the Banner of the Foole thats merry.</l>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
